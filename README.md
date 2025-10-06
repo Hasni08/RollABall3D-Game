@@ -4,6 +4,9 @@ A 3D ball-rolling game with 5 levels, colorful pickups, and one hidden enemy amo
 A 3D ball-rolling game with 5 levels, colorful pickups, and one hidden enemy among the rewards. Collect, survive, and reach your target score to progress!
 Detailed Game Description
 
+# How to Download
+Once you are on the repository page, go to green coloured "Code" Button, select Local and then download ZIP. It will download the folder in your device, extract it, open the application of the game inside the repository, and enjoy!
+
 Roll a Ball is a Unity-powered 3D game where you control a ball through multiple levels of increasing difficulty. Your goal is to collect colorful pickups scattered across the arena — each worth different points. But beware! Among the rewards hides a black pickup that acts as an enemy.
 
 Controls
